@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="npm i Package --dev" type="js.build_tools.npm" folderName="install">
+    <package-json value="$PROJECT_DIR$/package.json" />
+    <command value="install" />
+    <arguments value="$Prompt$ --dev" />
+    <node-interpreter value="project" />
+    <envs />
+    <method v="2" />
+  </configuration>
+</component>

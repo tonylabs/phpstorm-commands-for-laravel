@@ -1,0 +1,5 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="make:migration create_example_table" type="PhpLocalRunConfigurationType" factoryName="PHP Console" folderName="migration" path="$PROJECT_DIR$/artisan" scriptParameters="make:migration $Prompt$">
+    <method v="2" />
+  </configuration>
+</component>

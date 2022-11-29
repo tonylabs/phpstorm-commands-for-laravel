@@ -1,0 +1,5 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="migrate:refresh --seed" type="PhpLocalRunConfigurationType" factoryName="PHP Console" folderName="migration" path="$PROJECT_DIR$/artisan" scriptParameters="migrate:refresh --seed">
+    <method v="2" />
+  </configuration>
+</component>
