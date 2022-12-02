@@ -1,0 +1,5 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="queue:listen" type="PhpLocalRunConfigurationType" factoryName="PHP Console" folderName="queue" path="$PROJECT_DIR$/artisan" scriptParameters="queue:listen">
+    <method v="2" />
+  </configuration>
+</component>
