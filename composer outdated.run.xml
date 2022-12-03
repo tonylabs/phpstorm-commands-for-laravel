@@ -1,6 +1,6 @@
 <component name="ProjectRunConfigurationManager">
-  <configuration default="false" name="composer update" type="ShConfigurationType" folderName="composer">
-    <option name="SCRIPT_TEXT" value="composer update" />
+  <configuration default="false" name="composer outdated" type="ShConfigurationType" folderName="composer">
+    <option name="SCRIPT_TEXT" value="composer outdated" />
     <option name="INDEPENDENT_SCRIPT_PATH" value="true" />
     <option name="SCRIPT_PATH" value="" />
     <option name="SCRIPT_OPTIONS" value="" />

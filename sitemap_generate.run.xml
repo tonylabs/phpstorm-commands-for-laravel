@@ -1,0 +1,5 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="sitemap:generate" type="PhpLocalRunConfigurationType" factoryName="PHP Console" folderName="third-party" path="$PROJECT_DIR$/artisan" scriptParameters="sitemap:generate">
+    <method v="2" />
+  </configuration>
+</component>

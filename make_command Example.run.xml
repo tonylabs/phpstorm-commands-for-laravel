@@ -1,0 +1,5 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="make:command Example" type="PhpLocalRunConfigurationType" factoryName="PHP Console" folderName="command" path="$PROJECT_DIR$/artisan" scriptParameters="make:command $Prompt$">
+    <method v="2" />
+  </configuration>
+</component>

@@ -1,0 +1,5 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="make:model Example --factory" type="PhpLocalRunConfigurationType" factoryName="PHP Console" folderName="model" activateToolWindowBeforeRun="false" path="$PROJECT_DIR$/artisan" scriptParameters="make:model $Prompt$ --factory">
+    <method v="2" />
+  </configuration>
+</component>

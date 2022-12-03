@@ -1,0 +1,5 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="make:job Job" type="PhpLocalRunConfigurationType" factoryName="PHP Console" folderName="job" path="$PROJECT_DIR$/artisan" scriptParameters="make:job $Prompt$">
+    <method v="2" />
+  </configuration>
+</component>
