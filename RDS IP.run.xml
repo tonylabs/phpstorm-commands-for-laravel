@@ -1,6 +1,6 @@
 <component name="ProjectRunConfigurationManager">
   <configuration default="false" name="RDS IP" type="ShConfigurationType">
-    <option name="SCRIPT_TEXT" value="aliyun rds ModifySecurityIps --profile rds-sh --ModifyMode Cover --DBInstanceIPArrayName workstation --DBInstanceId rm-uf643um9jo4x1n1mw --SecurityIps $(curl ident.me)" />
+    <option name="SCRIPT_TEXT" value="aliyun rds ModifySecurityIps --profile rds-sh --ModifyMode Cover --DBInstanceIPArrayName workstation --DBInstanceId rm-uf643um9jo4x1n1mw --SecurityIps $(curl ifconfig.me)" />
     <option name="INDEPENDENT_SCRIPT_PATH" value="true" />
     <option name="SCRIPT_PATH" value="" />
     <option name="SCRIPT_OPTIONS" value="" />
