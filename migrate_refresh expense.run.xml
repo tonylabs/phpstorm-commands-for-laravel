@@ -1,5 +1,0 @@
-<component name="ProjectRunConfigurationManager">
-  <configuration default="false" name="migrate:refresh expense" type="PhpLocalRunConfigurationType" factoryName="PHP Console" folderName="migration" path="$PROJECT_DIR$/artisan" scriptParameters="migrate:refresh --path=/database/migrations/expense">
-    <method v="2" />
-  </configuration>
-</component>

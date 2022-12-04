@@ -1,5 +1,5 @@
 <component name="ProjectRunConfigurationManager">
-  <configuration default="false" name="db:seed TranslationSeeder" type="PhpLocalRunConfigurationType" factoryName="PHP Console" folderName="seed" path="$PROJECT_DIR$/artisan" scriptParameters="db:seed TranslationSeeder">
+  <configuration default="false" name="db:seed TranslationSeeder" type="PhpLocalRunConfigurationType" factoryName="PHP Console" folderName="seeder" path="$PROJECT_DIR$/artisan" scriptParameters="db:seed TranslationSeeder">
     <method v="2" />
   </configuration>
 </component>
