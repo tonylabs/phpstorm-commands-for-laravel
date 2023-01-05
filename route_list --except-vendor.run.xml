@@ -1,0 +1,5 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="route:list --except-vendor" type="PhpLocalRunConfigurationType" factoryName="PHP Console" folderName="route" path="$PROJECT_DIR$/artisan" scriptParameters="route:list --except-vendor">
+    <method v="2" />
+  </configuration>
+</component>

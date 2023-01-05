@@ -1,0 +1,5 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="route:list --path=api" type="PhpLocalRunConfigurationType" factoryName="PHP Console" folderName="route" path="$PROJECT_DIR$/artisan" scriptParameters="route:list --path=api">
+    <method v="2" />
+  </configuration>
+</component>
