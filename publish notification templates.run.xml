@@ -1,0 +1,5 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="publish notification templates" type="PhpLocalRunConfigurationType" factoryName="PHP Console" folderName="notification" path="$PROJECT_DIR$/artisan" scriptParameters="vendor:publish --tag=laravel-notifications">
+    <method v="2" />
+  </configuration>
+</component>

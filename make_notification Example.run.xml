@@ -1,0 +1,5 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="make:notification Example" type="PhpLocalRunConfigurationType" factoryName="PHP Console" folderName="notification" path="$PROJECT_DIR$/artisan" scriptParameters="make:notification $Prompt$">
+    <method v="2" />
+  </configuration>
+</component>
