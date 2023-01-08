@@ -1,0 +1,5 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="make:mail Example" type="PhpLocalRunConfigurationType" factoryName="PHP Console" folderName="mail" path="$PROJECT_DIR$/artisan" scriptParameters="make:mail $Prompt$">
+    <method v="2" />
+  </configuration>
+</component>
